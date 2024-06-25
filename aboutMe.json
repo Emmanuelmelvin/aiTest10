@@ -1,0 +1,21 @@
+{
+    "full_name": "Emmanuel Chidi Ugochuwou Ihenchukwu",
+    "origin": "Nogerian",
+    "date_of_birth": "1990-01-01",
+    "address": {
+        "street": "123 Main St",
+        "city": "Carlifornia",
+        "state": "LA",
+        "zip": "12345",
+        "country": "USA"
+    },
+    "email": "john.doe@example.com",
+    "phone_number": "+1234567890",
+    "occupation": "Software Engineer , CEO OF GARTEKCLOUDE",
+    "hobbies": ["reading", "traveling", "coding"],
+    "skills": ["Python", "JavaScript", "HTML", "CSS"],
+    "social_media_profiles": {
+        "linkedin": "https://www.linkedin.com/in/johndoe",
+        "twitter": "https://twitter.com/johndoe"
+    }
+}
